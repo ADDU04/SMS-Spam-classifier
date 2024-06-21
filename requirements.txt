@@ -1,0 +1,2 @@
+D:\projects\sms-spam-classifier-main\venv\Scripts\activate.bat
+D:\projects\sms-spam-classifier-main\venv\Scripts\python.exe C:/Program Files/JetBrains/PyCharm 2023.3.1/plugins/python/helpers/packaging_tool.py install sklearn
